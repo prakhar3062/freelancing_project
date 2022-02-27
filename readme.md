@@ -20,7 +20,7 @@ Tech Stack used is
 ---
  Team Members
 - Kaushal Agrawal
-- Prakhar M?ishra
+- Prakhar Mishra
 - Vishal Sony
 - Akshay Khandelwal
 
